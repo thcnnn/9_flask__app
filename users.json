@@ -3,5 +3,10 @@
         "login": "user",
         "password_hash": "scrypt:32768:8:1$rsPdLAtnzusmlErh$66f12218e56cf62db63422c14305b5b77956006a739e8db586f531a9fe7173291993dbff7ee344ca0ee7f494aec16ab7d17bd9a7989faaa93eb10c1a831fd153",
         "registration_date": "2024-05-29T16:42:59.250294"
+    },
+    "user2": {
+        "login": "user2",
+        "password_hash": "scrypt:32768:8:1$xzZwdmAN4yTPE9qu$fbd9abe9d705d1cc0a9636be9be25345531a846f20cd19225bc78b87aaee2f9e4c1dcc7c913e82c58e8613c33c3944741eb1fb8f5d1e8925cf54178f32613bed",
+        "registration_date": "2024-05-30T12:22:15.991912"
     }
 }
